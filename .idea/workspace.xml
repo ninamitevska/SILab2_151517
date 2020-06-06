@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b01f2db-9621-4c2e-a164-80a9b54a155c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1cxfk791mU2y1wkXxH1yfyQbn6K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SILab2Test.MultipleCondition">
+    <configuration name="SILab2Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SILab2Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SILab2Test.MultipleCondition" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SILab2Test.MultipleCondition&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SILab2Test.MultipleConditon" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SILab2Test.MultipleConditon&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SILab2Test.TestEveryBranch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SILab2Test.TestEveryBranch&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SILab2Test.MultipleCondition" />
+        <item itemvalue="Gradle.SILab2Test.MultipleConditon" />
+        <item itemvalue="Gradle.SILab2Test.TestEveryBranch" />
+        <item itemvalue="Gradle.SILab2Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b01f2db-9621-4c2e-a164-80a9b54a155c" name="Default Changelist" comment="" />
+      <created>1591475304092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591475304092</updated>
+      <workItem from="1591475308707" duration="7591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom" timestamp="1591482380637">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1591482380637" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center" timestamp="1591482380636">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1591482380636" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left" timestamp="1591482380636">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1591482380636" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right" timestamp="1591482380637">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1591482380637" />
+    <state x="427" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1591478137411">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="427" y="48" key="refactoring.ChangeSignatureDialog/0.23.1440.824@0.23.1440.824" timestamp="1591478137411" />
+    <state x="385" y="171" width="670" height="676" key="search.everywhere.popup" timestamp="1591478825863">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="385" y="171" width="670" height="676" key="search.everywhere.popup/0.23.1440.824@0.23.1440.824" timestamp="1591478825863" />
+  </component>
+</project>
